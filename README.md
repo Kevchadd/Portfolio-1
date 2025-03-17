@@ -23,7 +23,8 @@ Currently, I'm pursuing a **BBA in Computer Information Systems** at **West Texa
 ### 🚀 Projects  
 - **[Tooling Engine for Golf Factory](https://github.com/Kevchadd/Tooling-database-project.git)** –  
   Developed a CRUD-based inventory management system for tracking tooling, repairs, and asset lifecycle. *(ASP.Net, MySQL, Razor Pages, C#)*  
-- **Movies Application** – Android app fetching movie data from an API, featuring responsive UI and adaptive screen designs. *(Kotlin, MVC, API Integration)*  
+- **[Movies Application](https://github.com/Kevchadd/MovieBuffs.git).** –
+- Android app fetching movie data from an API, featuring responsive UI and adaptive screen designs. *(Kotlin, MVC, API Integration)*  
 ---
 ### 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-chadderton-cis-dm/)  

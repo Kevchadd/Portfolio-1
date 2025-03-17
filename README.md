@@ -1,41 +1,30 @@
-# 🚀 Your Name – GitHub Portfolio
+# 🚀 Kevin Chadderton – GitHub Portfolio
 
 Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, technical skills, and ways to connect with me.
 
-## 🔥 About Me
-I am a passionate **[Your Profession]** specializing in **[Your Skills]**. I love building **[Software/Apps/Websites]** that solve real-world problems.
+## 👋 About Me  
 
-- 🌟 **Specialties:** Python, Java, JavaScript, React, Machine Learning, etc.
-- 🎯 **Interests:** AI, Web Development, Game Design, etc.
-- 📫 **Contact:** [Your Email] | [LinkedIn Profile] | [Portfolio Website]
+Hi, I'm **Kevin Chadderton**, a **Military Veteran & IT Professional** transitioning into **IT Management** with expertise in **database management, Agile methodologies, and process optimization**. With a strong background in **operations leadership, technology-driven solutions, and team management**, I bring a **data-driven approach** to solving complex business challenges.  
 
+Currently, I'm pursuing a **BBA in Computer Information Systems** at **West Texas A&M University**, specializing in **Decision-Making 4.0**. My professional journey spans across **the U.S. Navy, Department of Energy, and private-sector operations**, where I have led **high-priority missions** and **optimized IT workflows** to enhance efficiency.  
+
+### 🌟 What I Do  
+🔹 **IT & Operations Management** – Optimizing business processes through technology  
+🔹 **Software Development** – Building data-driven applications for asset tracking & operations  
+🔹 **Data Analysis & Reporting** – Leveraging data for better decision-making  
+🔹 **Agile & Project Management** – Implementing Agile methodologies for tech solutions  
+
+### 🔧 Tech Stack  
+- **Languages:** C#, Kotlin, HTML/CSS  
+- **Frameworks & Tools:** ASP.Net, Razor Pages, MySQL, GitHub  
+- **Project Management:** Scrum, Agile, Microsoft Projects  
+- **Other Skills:** Lean/Six Sigma, Network Security, IT Compliance  
+
+### 🚀 Projects  
+- **[Tooling Engine for Golf Factory](https://github.com/Kevchadd/Tooling-database-project.git)** –  
+  Developed a CRUD-based inventory management system for tracking tooling, repairs, and asset lifecycle. *(ASP.Net, MySQL, Razor Pages, C#)*  
+- **Movies Application** – Android app fetching movie data from an API, featuring responsive UI and adaptive screen designs. *(Kotlin, MVC, API Integration)*  
 ---
-
-## 📂 Projects
-Here are some of my best projects:
-
-| Project Name | Description | Tech Stack | Demo |
-|-------------|-------------|------------|------|
-| **[Project 1]** | A brief description of what it does | Python, Flask, React | [🔗 Live Demo](#) |
-| **[Project 2]** | A short summary of the project | Java, Spring Boot | [🔗 GitHub Repo](#) |
-| **[Project 3]** | Details about this project | JavaScript, Node.js | [🔗 More Info](#) |
-
----
-
-## 🚀 Skills & Technologies
-- **Programming:** Python, Java, C++, JavaScript, etc.
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, VS Code, JIRA
-- **Other:** Machine Learning, Data Science, Cloud Computing
-
----
-
-## 🌍 Connect with Me
-- 🔗 **Portfolio:** [yourportfolio.com](#)
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- 🐦 **Twitter/X:** [@yourhandle](#)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-
----
-⭐️ *Feel free to explore my projects and reach out!* 🚀
+### 📫 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-chadderton-cis-dm/)  
+- 📧 [kevin.chadderton@yahoo.com](mailto:kevin.chadderton@yahoo.com) 

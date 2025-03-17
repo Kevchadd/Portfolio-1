@@ -24,7 +24,9 @@ Currently, I'm pursuing a **BBA in Computer Information Systems** at **West Texa
 - **[Tooling Engine for Golf Factory](https://github.com/Kevchadd/Tooling-database-project.git)** –  
   Developed a CRUD-based inventory management system for tracking tooling, repairs, and asset lifecycle. *(ASP.Net, MySQL, Razor Pages, C#)*  
 - **[Movies Application](https://github.com/Kevchadd/MovieBuffs.git).** –
-- Android app fetching movie data from an API, featuring responsive UI and adaptive screen designs. *(Kotlin, MVC, API Integration)*  
+  Android app fetching movie data from an API, featuring responsive UI and adaptive screen designs. *(Kotlin, MVC, API Integration)*
+- **[Buff Hotel Management System](https://github.com/Kevchadd/Buff-Hotel-Management.git)** –  
+  A C# console application for managing hotel reservations, including room availability, customer check-in/check-out, and reservation tracking. *(C#, .NET, OOP, LINQ)*  
 ---
 ### 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-chadderton-cis-dm/)  
